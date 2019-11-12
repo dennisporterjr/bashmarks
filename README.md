@@ -21,7 +21,7 @@
     $ navsave webfolder
     $ cd /usr/local/lib/
     $ navsave locallib
-    $ l
+    $ navlist
     $ nav web<tab>
     $ nav webfolder
 
